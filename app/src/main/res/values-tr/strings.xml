@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hava Durumu</string>
+    <string name="topBarBaslik">Hava Durumu</string>
+    <string name="sehirYazi">İSTANBUL</string>
+    <string name="dereceYazi">30C°</string>
+    <string name="havaDurumuYazi">GÜNEŞLİ</string>
+    <string name="tarihYazi">13.07.2024</string>
+    <string name="bugünYazi">BUGÜN</string>
+    <string name="bugünDereceYazi">30/20</string>
+    <string name="yarinYazi">YARIN</string>
+    <string name="yarinDereceYazi">25/20</string>
+    <string name="lokasyonDegistirYazi">Lokasyon Değiştir</string>
+</resources>

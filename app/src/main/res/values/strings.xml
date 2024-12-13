@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="topBarBaslik">Weather</string>
+    <string name="sehirYazi">ISTANBUL</string>
+    <string name="dereceYazi">30C°</string>
+    <string name="havaDurumuYazi">SUNNY</string>
+    <string name="tarihYazi">13.07.2024</string>
+    <string name="bugünYazi">TODAY</string>
+    <string name="bugünDereceYazi">30/20</string>
+    <string name="yarinYazi">TOMORROW</string>
+    <string name="yarinDereceYazi">25/20</string>
+    <string name="lokasyonDegistirYazi">Change Location</string>
+</resources>
